@@ -7,7 +7,7 @@ IoThon 2019 was a 5G and IoT based hackathon where we innovated with Europe's to
 ![Iothon](images/iothon.jpg)
 
 ## Our solution
-We participated in the Ericsson's challenge: Futuristic Aalto Campus, which consisted in address a range of critical environmental issues using cellular IoT and connected technologies. 
+We participated in the Ericsson's challenge: Futuristic Aalto Campus, which consisted in address a range of critical environmental issues using cellular IoT and connected technologies. Our solution is called Utilizing human impact on resource management.
 
 ### Inspiration
 We, as human nation, are always so proud of the technologies we develop, but compliant about them as well because they result in excessive energy consumption and waste production. One point we ignore is that, what creates the biggest waste is actually our way of using the technology, we take the resource we have for granted.
