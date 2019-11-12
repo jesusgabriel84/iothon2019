@@ -2,7 +2,7 @@
 
 IoThon 2019 was a 5G and IoT based hackathon where we innovated with Europe's top university-based 5G testing and experimental network. IoThon 2019, second in IoThon series was organized by the department of Communications and Networking (COMNET), School of Electrical Engineering, Aalto University along with Partners (Ericsson, Nokia, Telia, Siemens and RIOT) and several European universities (Athens University of Economics and Business, FU Berlin, Hamburg University of Applied Sciences and University of Basel). 
 
-**[IoThon 2019]**(https://iothon.io/), Europe's second research-oriented open source IoT hackathon, took place in May 3-5, 2019 at Open Innovation House, Maarintie 6, 02150, Espoo, Finland.
+**[IoThon 2019](https://iothon.io/)**, Europe's second research-oriented open source IoT hackathon, took place in May 3-5, 2019 at Open Innovation House, Maarintie 6, 02150, Espoo, Finland.
 
 ![Iothon](images/iothon.png)
 
