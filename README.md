@@ -36,5 +36,5 @@ We learnt how the 5G works in more detail, specially the NB-İoT air interface a
 ### What's next for Utilizing human impact on resource management
 Our solution can be scaled to all the areas on campus considering more sensing data and parameters. Moreover, our vision is to be also extended not only for campus but also for smart cities.
 
-###Built with:
+### Built with:
 Python, Arduino, 5G, C
